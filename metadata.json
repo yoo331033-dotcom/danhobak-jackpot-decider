@@ -1,0 +1,8 @@
+{
+  "name": "DANHOBAK Jackpot Decider",
+  "description": "A neo-brutalist Y2K styled decision maker app that helps you pick your next meal or activity with a slot-machine experience and Gemini AI insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
